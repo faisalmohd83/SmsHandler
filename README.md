@@ -1,2 +1,2 @@
 # SmsHandler
-An reusable library for sms handling for Android projects
+An reusable SMS handling library for Android projects
